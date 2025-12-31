@@ -138,6 +138,7 @@ If you have unit tests, add instructions here. For quick manual checks, try all 
 - Graphical UI with SDL/ImGui
 - 4x4 or NxN configurable board
 - Networked multiplayer
+- Win counter for X and O
 
 ---
 
